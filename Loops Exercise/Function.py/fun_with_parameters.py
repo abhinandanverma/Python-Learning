@@ -1,4 +1,7 @@
-def add2number(a,b):
+# Function in python 
+
+def add2number(a,b):##parameter
     sum = a+b
     print("the sum of number:",sum) 
-add2number(2,2)
+#call the function
+add2number(2,2) ##arguments
