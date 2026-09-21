@@ -10,10 +10,14 @@
 
 # Q2.
 list=[1,2,1]
-list=[1,2,3]
+#list=[1,2,3]
 copy_list=list.copy()
 copy_list.reverse()
 if(copy_list==list):
     print("palindrome")
 else:
     print("not palindrome")    
+
+#Q3.
+garde=("A","B","A","B","c","A")
+print(garde.count("A"))
