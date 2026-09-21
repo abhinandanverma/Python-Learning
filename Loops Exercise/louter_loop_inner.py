@@ -10,9 +10,10 @@
 #   for num in range(1,4):
 #     print (num)
 
-i = 1
-while i<4:
+# i = 1
+# while i<4:
 
-  for j in range(1,4):
-    print(j)
-    i+=1
+#   for j in range(1,4):
+#     print(j)
+#     i+=1
+
