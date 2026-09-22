@@ -8,4 +8,4 @@
 
 str="apple"
 print(str[:-1])#appl
-print(str[-5:-2])#app
+print(str[-5:-2])#app  
