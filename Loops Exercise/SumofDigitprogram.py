@@ -1,8 +1,8 @@
-num = int(input("Enter a number: "))
+num = input("Enter a number: ")
 
-if num > 0:
-    print("Positive")
-elif num < 0:
-    print("Negative")
-else:
-    print("Zero")
+total = 0
+
+for digit in num:
+    total = total + int(digit)
+
+print("Sum =", total)

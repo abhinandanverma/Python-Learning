@@ -8,3 +8,7 @@ s2 = copy.copy(s1)
 
 print("Student 1:",s1.name,s1.age)
 print("Student 2:",s2.name,s2.age)
+
+num = int(input("Enter a number: "))
+
+print("Square =", num * num)
